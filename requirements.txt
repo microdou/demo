@@ -1,2 +1,8 @@
-fastapi==0.112.0
-uvicorn[standard]==0.30.6
+fastapi==0.115.0
+uvicorn[standard]==0.31.0
+xlrd==2.0.1
+xlsx2csv==0.8.3
+polars==1.8.2
+numpy==2.1.1
+pyarrow==17.0.0
+python-multipart==0.0.12
